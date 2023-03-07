@@ -130,6 +130,6 @@ namespace Bank.Models
             card.SchoolBlance = (double)dr["SchoolBlance"];
 
             return card;
-        }
+        }//nihao
     }
 }
