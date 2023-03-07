@@ -11,6 +11,8 @@ namespace Bank.Models
         public string Type { get; set; }
         public string CardId2 { get; set; }
         public double Money { get; set; }
+
+        public double text { get; set; }
     }
     //测试更改代码
 }
